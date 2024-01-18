@@ -80,6 +80,7 @@ Ingredients:
 - 4 hamburger buns
 - Lettuce
 - Tomato
+- Onions
 - Mayonnaise
 
 Instructions:
@@ -88,7 +89,7 @@ Instructions:
 3. Grill chicken for 5-7 minutes per side or until cooked through.
 4. Top each chicken breast with a slice of Swiss cheese and let melt.
 5. Toast hamburger buns on the grill.
-6. Assemble sandwiches with chicken, lettuce, tomato, and mayonnaise.
+6. Assemble sandwiches with chicken, lettuce, tomato, onions and mayonnaise.
 
 ## Desserts
 ### Chocolate Chip Cookies
