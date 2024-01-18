@@ -59,13 +59,14 @@ Ingredients:
 - 2 cloves garlic, minced
 - Salt and pepper to taste
 - 1 jar (24 oz) spaghetti sauce
+- 10 grams of sugar
 
 Instructions:
 1. Cook spaghetti according to package instructions.
 2. In a mixing bowl, combine ground beef, bread crumbs, milk, Parmesan cheese, egg, garlic, salt, and pepper.
 3. Form mixture into meatballs.
 4. In a large skillet, brown meatballs over medium-high heat.
-5. Add spaghetti sauce to the skillet and bring to a simmer.
+5. Add spaghetti sauce to the skillet and bring to a simmer, then add sugar.
 6. Reduce heat to low and let simmer for 10-15 minutes.
 7. Serve meatballs and sauce over spaghetti.
 
